@@ -1,0 +1,8 @@
+1. create feature/update branch: git branch <branch-name>
+2. go to branch to create changes: git checkout <branch-name>
+3. create changes, build and test: jekyll serve
+4. stage & commit changes: git commit -a -m 'commit message'
+5. go back to master to merge: git checkout master
+6. merge changes to master: git merge <branch-name>
+7. delete feature branch: git branch -d <branch-name>
+8. push changes to github: git push origin master
