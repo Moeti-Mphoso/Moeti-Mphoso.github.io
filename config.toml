@@ -1,0 +1,42 @@
+baseURL = 'https://Moeti-Mphoso.github.io'
+languageCode = 'en-us'
+title = 'Moeti Mphoso'
+theme = "cactus"
+
+[params]
+    colortheme = "white"
+    description = "My name is Moeti Mphoso and I'm a Data Engineer. I'm from Lesotho, living in South Africa and currently working at HISP-SA. On this page you can find some information about me and a few blog posts I wrote."
+    mainSection = "posts"
+    mainSectionTitle = "Blog Posts"
+    showAllPostsOnHomePage = false
+    postsOnHomePage = 10
+    showProjectsList = false
+    projectsUrl = "https://github.com/Moeti-Mphoso"
+
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/Moeti-Mphoso"
+
+[[params.social]]
+  name = "email"
+  link = "mphoso.p.m@gmail.com"
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/moeti-mphoso-b8048985/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
