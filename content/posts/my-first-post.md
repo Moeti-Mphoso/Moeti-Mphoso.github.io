@@ -1,9 +1,9 @@
 ---
-title: "My First Post"
+title: "Post Zero [!published draft]"
 date: 2022-03-10T16:34:36+02:00
-draft: true
+draft: false
 ---
-the idea behind this blog
+the idea behind this blog.
 
 Reflexions is my number one habit that helps me improve and solve problems, it works mostly on my value of continuous improvement. This is the habit i most want to improve above all others, my hope for this blog is that it will cement my resolve and commitment to this habit, i have a tendency to slag on it and not reflect as much as i want, hopefully the social pressure of doing this will push me in the direction i know i really really want, in essence, I’m putting myself in a corner.
 
@@ -32,8 +32,6 @@ You cannot runaway from weakness, you have to root it out, or perish, and if it
 The first real solution to our problems is to examine our paradigms & attitudes towards them.
 
 State - story - strategy
-
-being too “official” when doing things e.g. taking notes in meetings,
 
 Start where you stand - tools
 
