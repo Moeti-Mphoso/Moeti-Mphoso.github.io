@@ -4,7 +4,7 @@ date: 2022-07-08T12:11:41+02:00
 draft: true
 ---
 
-Python applications are written inside \*.py files referred to as modules. This can further be organized inside packages, which are simply folders that aside your modules, must contain a special python file with the name '__init__.py'. this file can just be blank, & your package can just have only this file with your code in there - if its not runnable ofcourse (confirm).
+Python applications are written inside \*.py files referred to as modules. This can further be organized inside packages (container of modules), which are simply folders that aside your modules, must contain a special python file with the name '__init__.py'. this file can just be blank, & your package can just have only this file with your code in there - if its not runnable ofcourse (confirm).
 this is so that your code can be accessible to other part or your code, or other project entirely via import.
 
 further configuration must be put in place to ensure your package can installed via pip, & also make it easily sharable with other developers, either by simply sending them an instable packaged project  -say via flash, email, telegram or some other file sharing means, or most commonly "if your project is open source" via pypi (python package index). u can ofcourse just share your application directly as files that are run directly without installation via pip if you choose.
