@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/moeti/Moeti-Mphoso.github.io",
+	"sourceRoot": "/home/runner/work/Moeti-Mphoso.github.io/Moeti-Mphoso.github.io",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
