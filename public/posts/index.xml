@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Moeti Mphoso</title>
+    <link>https://Moeti-Mphoso.github.io/posts/</link>
+    <description>Recent content in Posts on Moeti Mphoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 16:34:36 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Mar 2022 09:48:18 +0200</lastBuildDate><atom:link href="https://Moeti-Mphoso.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>Stanbic Talk - Modern Data Plartform [!published draft]</title>
+      <link>https://Moeti-Mphoso.github.io/posts/stanbic-talk-modern-data-plartform/</link>
+      <pubDate>Tue, 09 Aug 2022 12:11:56 +0200</pubDate>
+      
+      <guid>https://Moeti-Mphoso.github.io/posts/stanbic-talk-modern-data-plartform/</guid>
+      <description>Infrastructure as code, encoding configuration
+link to terraform why:
+elasticity automation reusability version control scalable Day 0 and Day 1 activities. Day 1: “Day 1” refers to OS and application configurations you apply after you’ve initially built your infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Python application distribution [!published draft]</title>
+      <link>https://Moeti-Mphoso.github.io/posts/python-package-distribution/</link>
+      <pubDate>Fri, 08 Jul 2022 12:11:41 +0200</pubDate>
+      
+      <guid>https://Moeti-Mphoso.github.io/posts/python-package-distribution/</guid>
+      <description>Desired results You want to easily distribute and share your application with your users (including other developers). You want your application to be installed via pip. pip install my-awesome-application You want to access your application in your other projects on your computer. import my-awesome-application You want to be able to run your application from the terminal as standalone, without having to execute it via python and specifying or navigating to your project folder.</description>
+    </item>
+    
+    <item>
+      <title>Post Zero [!published draft]</title>
+      <link>https://Moeti-Mphoso.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 10 Mar 2022 16:34:36 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://Moeti-Mphoso.github.io/posts/my-first-post/</guid>
+      <description>the idea behind this blog.
+Reflexions is my number one habit that helps me improve and solve problems, it works mostly on my value of continuous improvement. This is the habit i most want to improve above all others, my hope for this blog is that it will cement my resolve and commitment to this habit, i have a tendency to slag on it and not reflect as much as i want, hopefully the social pressure of doing this will push me in the direction i know i really really want, in essence, I’m putting myself in a corner.</description>
     </item>
     
   </channel>
