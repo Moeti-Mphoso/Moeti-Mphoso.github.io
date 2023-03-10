@@ -1,7 +1,7 @@
 ---
 title: "Working with a docker volume"
 date: 2022-07-08T07:51:52+02:00
-draft: true
+draft: false
 ---
 
 Working with volumes to maintain application data beyond a containers lifetime/existence.

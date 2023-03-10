@@ -1,7 +1,7 @@
 ---
 title: "Soft Skills"
 date: 2022-03-14T08:49:45+02:00
-draft: true
+draft: false
 ---
 the soft skills that matter (not selling you things you don't need, or bullshiting, or faking it till you make it)
 saying no (dnt be compromised)
