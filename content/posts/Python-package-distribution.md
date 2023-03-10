@@ -165,6 +165,15 @@ why you might choose one distribution over the other?
 Once you have build your package (source or binary), it can be shared however way you want; email, telegram, version control, & most preferebly via pypi,
 and your user can installed it like `pip install ...`
 
+### distribute via cvs (gitlab & github)
+#### github
+refs: 
+
+- <https://docs.gitlab.com/ee/user/packages/pypi_repository/index.html>
+- <https://docs.gitlab.com/ee/user/packages/package_registry/index.html>
+- <https://docs.gitlab.com/ee/user/project/deploy_tokens/#deploy-tokens>
+- <https://www.revsys.com/tidbits/using-private-packages-python/>
+
 
 ### install from vsc repo:
 e.g `pip install "git+ssh://git@gitlab.hisp.org:722/Moetim/dhis2api.git#egg=dhis2api"`
