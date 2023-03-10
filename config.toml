@@ -3,10 +3,6 @@ languageCode = 'en-us'
 title = 'Moeti Mphoso'
 theme = "cactus"
 
-[module]
-  [module.hugoVersion]
-    extended = true
-
 [params]
     colortheme = "white"
     description = "My name is Moeti Mphoso and I'm a Data Engineer. I'm from Lesotho, living in South Africa and currently working at HISP-SA. On this page you can find some information about me and a few blog posts I wrote."
