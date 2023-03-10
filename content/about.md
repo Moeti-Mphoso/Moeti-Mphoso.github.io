@@ -6,7 +6,7 @@ draft: false
 [resume pdf](pdflink)
 
 # Who am I?
-My name is Moeti Mphoso and I'm a Data Engineer. I'm from Lesotho, living in South Africa and currently working at HISP-SA.
+My name is Moeti Mphoso, I'm a Data Engineer. I'm from Lesotho, living in South Africa and currently working at HISP-SA.
 Python & Golang programming enthusiast, Open source software contributer. Expertise in database modeling & implementation, & data integration.
 CAPM Certified.
 
